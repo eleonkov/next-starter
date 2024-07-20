@@ -1,0 +1,13 @@
+{
+  "IndexPage": {
+    "meta_title": "Startseite",
+    "meta_description": "Meta-Beschreibung der Startseite"
+  },
+  "AboutPage": {
+    "meta_title": "Über uns Seite",
+    "meta_description": "Meta-Beschreibung der Über uns Seite"
+  },
+  "Navigation":{
+    "home": "Start"
+  }
+}

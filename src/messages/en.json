@@ -1,0 +1,13 @@
+{
+  "IndexPage": {
+    "meta_title": "Home page",
+    "meta_description": "Home meta description"
+  },
+  "AboutPage": {
+    "meta_title": "About page",
+    "meta_description": "About meta description"
+  },
+  "Navigation":{
+    "home": "Home"
+  }
+}
